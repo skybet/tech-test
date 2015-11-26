@@ -8,7 +8,7 @@ Introduction
 ---
 Congratulations on being selected to complete the Sky Betting & Gaming Technical Test!
 
-We hope that you find this exercise fun. There are no trick questions - we want to see well thought-out and well structured code.
+We hope that you find this exercise fun. There are no trick questions - we want to see your solution to a simple problem with well thought-out and well structured code.
 
 
 The Brief
@@ -39,7 +39,6 @@ The brief for this step is to replicate the functionality of Step 1, but achieve
 
 * Make a new branch named 'step2' - branched from 'step1' above
 * You should aim to use php://input to receive the post data
-* For the client side element you can use your own Javascript or base it on an open source framework
 * Develop the code for a modern browser of your choice and let us know what it has been tested in
 
 
@@ -47,7 +46,7 @@ Implementation Notes
 ---
 
 * Use of PHP frameworks is discouraged
-* Use of a frontend Javascript framework is allowed
+* For the client side element you can use your own Javascript or base it on an open source framework
 * Using composer for autoloading, tactical libraries & phpunit is allowed
 
 Don't worry if you don't finish all of the steps, we're more interested in how you implement the steps which you do complete as they give us more insight into how good you are as a developer.
