@@ -21,7 +21,7 @@ You should use engineering best practices where appropriate. Principles we value
 
 ## The Deliverable
 
-* A bundled/archived repository showing your commit history. You could fork this repo in git, but any VCS is fine. Git example:
+* A bundled/archived repository showing your commit history or a link to an accessible private repository with your work in (Github can host private repositories at a cost; there is no charge for doing so with Bitbucket). You could fork this repo in git, but any VCS is fine. Git example for sending us a standalone bundle:
 
         git bundle create <yourname>.bundle --all --branches
 
