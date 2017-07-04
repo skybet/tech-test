@@ -31,3 +31,7 @@ You should use engineering best practices where appropriate. Principles we value
 ## The Markup
 
 An example of the initial HTML form is [provided in this repository](markup.html).
+
+## Assessment Policy
+
+We consider all candidates equally, fairly and without bias.  To that end, we ask that you do not leave any personally identifying information in your submission (such as your name within an author field or file, or in use as test data).  We run all VCS-based submissions through an anonymiser before assessment, so that there is no identifying information in the commit history, but this will only remove references in the committing author and email address, not deep in the code submitted.
