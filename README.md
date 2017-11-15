@@ -19,18 +19,18 @@ We leave it to you to decide how to transmit the data between the client and the
 
 You should use engineering best practices where appropriate. Principles we value include: security, performance, readability, testability, scalability, simplicity. You should also aim to achieve a clean separation of concerns between components of your solution; using the MVC pattern, for example.
 
+## The Markup
+
+An example of the initial HTML form is [provided in this repository](markup.html).
+
 ## The Deliverable
 
-* A bundled/archived repository showing your commit history or a link to an accessible private repository with your work in (Github can host private repositories at a cost; there is no charge for doing so with Bitbucket). You could fork this repo in git, but any VCS is fine. Git example for sending us a standalone bundle:
+* A git bundled repository showing your commit history:
 
         git bundle create <yourname>.bundle --all --branches
 
 * A covering note explaining the technology choices you have made.
 * Any instructions required to run your solution and tests in a Linux environment.
-
-## The Markup
-
-An example of the initial HTML form is [provided in this repository](markup.html).
 
 ## Assessment Policy
 
