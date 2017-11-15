@@ -19,19 +19,21 @@ We leave it to you to decide how to transmit the data between the client and the
 
 You should use engineering best practices where appropriate. Principles we value include: security, performance, readability, testability, scalability, simplicity. You should also aim to achieve a clean separation of concerns between components of your solution; using the MVC pattern, for example.
 
-## The Deliverable
-
-* A bundled/archived repository showing your commit history or a link to an accessible private repository with your work in (Github can host private repositories at a cost; there is no charge for doing so with Bitbucket). You could fork this repo in git, but any VCS is fine. Git example for sending us a standalone bundle:
-
-        git bundle create <yourname>.bundle --all --branches
-
-* A covering note explaining the technology choices you have made.
-* Any instructions required to run your solution and tests in a Linux environment.
-
-## The Markup
+### The Markup
 
 An example of the initial HTML form is [provided in this repository](markup.html).
 
-## Assessment Policy
+## The Deliverable
+
+Replace the contents of this README.md with:
+
+  1. A covering note explaining the technology choices you have made.
+  1. Any instructions required to run your solution and tests in a Linux environment.
+
+Email as an attachment or a link the git bundled repository showing your commit history with all your commits on the master branch:
+
+        git bundle create <anything>.bundle --all --branches
+
+## Equality & Diversity
 
 We consider all candidates equally, fairly and without bias.  To that end, we ask that you do not leave any personally identifying information in your submission (such as your name within an author field or file, or in use as test data).  We run all VCS-based submissions through an anonymiser before assessment, so that there is no identifying information in the commit history, but this will only remove references in the committing author and email address, not deep in the code submitted.
